@@ -1,8 +1,6 @@
 ## Welcome follow my WeChat official account!
 
-![Wechat](https://github.com/zhaoyiming0803/zhaoyiming0803/blob/master/wechat.jpg)
-
-<img src="https://github.com/zhaoyiming0803/zhaoyiming0803/blob/master/wechat.jpg">
+<img width="100" height="100" src="https://github.com/zhaoyiming0803/zhaoyiming0803/blob/master/wechat.jpg">
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
