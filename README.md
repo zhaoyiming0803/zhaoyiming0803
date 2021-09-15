@@ -1,6 +1,6 @@
 ## Welcome follow my WeChat official account!
 
-![Wechat](https://camo.githubusercontent.com/acbb251544d90aeeb5c49eb6b32f8816549c56be2b9e135f7d148784ee31e8b8/68747470733a2f2f7a68616f79696d696e67303830332e6769746875622e696f2f7765636861742e706e67)
+![Wechat](https://github.com/zhaoyiming0803/zhaoyiming0803/blob/master/wechat.png)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
