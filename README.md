@@ -2,6 +2,8 @@
 
 ![Wechat](https://github.com/zhaoyiming0803/zhaoyiming0803/blob/master/wechat.jpg)
 
+<img src="https://github.com/zhaoyiming0803/zhaoyiming0803/blob/master/wechat.jpg">
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
