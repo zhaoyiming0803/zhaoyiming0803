@@ -2,7 +2,7 @@
 
 <img width="140" height="140" src="https://github.com/zhaoyiming0803/zhaoyiming0803/blob/master/wechat.jpg">
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23E44D27?style=flat-square&logo=TypeScript&logoColor=ffffff)
