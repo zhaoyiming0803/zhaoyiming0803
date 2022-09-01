@@ -1,6 +1,6 @@
 ## Welcome follow my WeChat official account!
 
-<img width="140" height="140" src="https://github.com/zhaoyiming0803/zhaoyiming0803/blob/master/wechat.jpeg">
+<img width="140" height="140" src="https://github.com/zhaoyiming0803/zhaoyiming0803/raw/master/wechat.jpeg">
 
 ## Languages and Tools:
 
