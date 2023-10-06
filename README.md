@@ -1,4 +1,4 @@
-## Welcome follow my WeChat official account!
+## Welcome follow my personal WeChat !
 
 <img width="140" height="140" src="https://github.com/zhaoyiming0803/zhaoyiming0803/raw/master/wechat.jpeg">
 
