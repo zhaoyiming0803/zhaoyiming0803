@@ -10,5 +10,7 @@
 ![React.js](https://img.shields.io/badge/-React-%25232C3A42?style=flat-square&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Node](https://img.shields.io/badge/-Node.js-%232c3e50?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/Java-%232c3e50?style=flat-square&logo=Java)
+![PHP](https://img.shields.io/badge/PHP-%232c3e50?style=flat-square&logo=PHP)
 
 
