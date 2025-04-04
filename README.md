@@ -13,5 +13,6 @@
 ![Java](https://img.shields.io/badge/Java-%232c3e50?style=flat-square&logo=Java)
 ![PHP](https://img.shields.io/badge/PHP-%232c3e50?style=flat-square&logo=PHP)
 ![Python](https://img.shields.io/badge/Python-%232c3e50?style=flat-square&logo=Python)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter)
 
 
