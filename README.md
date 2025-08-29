@@ -14,5 +14,7 @@
 ![PHP](https://img.shields.io/badge/PHP-%232c3e50?style=flat-square&logo=PHP)
 ![Python](https://img.shields.io/badge/Python-%232c3e50?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%23E44D27?style=flat-square&logo=Kotlin&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/-Swift-%23E44D27?style=flat-square&logo=Swift&logoColor=ffffff)
 
 
